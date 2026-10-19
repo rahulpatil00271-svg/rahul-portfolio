@@ -2,7 +2,7 @@
 
 A minimal, dark-themed personal portfolio of **Rahul Patil**, an AI & Data Science student at VIT Pune who is learning to build useful things with code.
 
-🔗 **Live site:** `https://rahulpatil00271-svg.github.io/rahul-portfolio/`
+🔗 **Live site:** [Rahul's Portfolio](https://rahulpatil00271-svg.github.io/rahul-portfolio/)
 
 ## ✨ About
 
